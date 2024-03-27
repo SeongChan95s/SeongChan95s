@@ -27,17 +27,20 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
+<div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/gsap-gray"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/swiper-gray"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/splitting.js-gray"/>
+</div>
+
 <h2>⭐️ Tools</h2>
-<h4>Design</h4>
 <div>
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />
   <img src="https://img.shields.io/badge/adobe%20illustrator-F24E1E.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=black" />
   <img src="https://img.shields.io/badge/adobe%20xd-FF61F6.svg?style=for-the-badge&logo=adobe%20xd&logoColor=black" />
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  
 </div>
 
-<h4>Frontend</h4>
 <div>
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
