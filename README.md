@@ -24,13 +24,15 @@
   <img src="https://img.shields.io/badge/SASS(SCSS)-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
   <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
 <h2>⭐️ Tools</h2>
 <h4>Design</h4>
 <div>
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />
-  <img src="https://img.shields.io/badge/adobe%20illustrator-FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=black" />
+  <img src="https://img.shields.io/badge/adobe%20illustrator-F24E1E.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=black" />
+  <img src="https://img.shields.io/badge/adobe%20xd-FF61F6.svg?style=for-the-badge&logo=adobe%20xd&logoColor=black" />
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   
 </div>
