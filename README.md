@@ -39,7 +39,7 @@
 
 <br>
 
-<h2>⭐️ Tools</h2>
+<h2>🛠️ Tools</h2>
 <div>
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />
   <img src="https://img.shields.io/badge/adobe%20illustrator-F24E1E.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=black" />
