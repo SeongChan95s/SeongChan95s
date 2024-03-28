@@ -1,21 +1,27 @@
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Venom&text=SmartUIUX&fontColor=ffffff"/>
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=Venom&text=Smart%20UI·UX&fontColor=ffffff"/>
 </div>
 
 <br>
 
-<div align="center">
+<div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=235&lines=Hi%F0%9F%91%8B%2C+I'm+SeongChan" alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
+<div>💡사용자 경험이 뛰어난 반응형 웹</div>
+<div>👌 웹 접근성·웹 표준에 부합하는 코딩</div>
+<div>🌟 트렌디한 웹디자인</div>
+<br>
+
+
+<div>
   <a href="https://velog.io/@chanseong">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
 
   <a href="mailto:seognchan95s@gmail.com">
-    <img src="https://img.shields.io/badge/seongchan95s@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
