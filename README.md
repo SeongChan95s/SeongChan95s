@@ -9,7 +9,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=235&lines=Hi%F0%9F%91%8B%2C+I'm+SeongChan" alt="Typing SVG" /></a>
 </div>
 
-<div>똑똑한 UI·UX를 만드는 프론트엔드 개발자 박성찬 입니다.</div>
+<div>똑똑한 UI·UX를 만드는 웹퍼블리셔 박성찬 입니다.</div>
 <div>트렌디한 디자인과 더불어 웹 접근성, 웹 표준에 부합하는 사용자 경험이 뛰어난 인터페이스를 지향합니다.</div>
 <br>
 
