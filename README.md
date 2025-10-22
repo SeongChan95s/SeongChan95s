@@ -22,15 +22,11 @@
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a)
 ![TypeScript](https://img.shields.io/badge/typescript-0769AD.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+![Next.js](https://img.shields.io/badge/next.js-20232a.svg?style=for-the-badge&logo=next.js&logoColor=ffffff)
 ![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Query](https://img.shields.io/badge/reactquery-20232a.svg?style=for-the-badge&logo=reactquery&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-20232a.svg?style=for-the-badge&logo=next.js&logoColor=ffffff)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![GSAP](https://img.shields.io/badge/gsap-gray)
-![Swiper](https://img.shields.io/badge/swiper-gray)
-![Splitting.js](https://img.shields.io/badge/splitting.js-gray)
 
 ## 🛠️ Tools
 
